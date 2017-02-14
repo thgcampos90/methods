@@ -1,1 +1,1 @@
-Here are some implemented methods, containing root-finding algorithms such and Lagrange polynomial interpolation.   
+Here are some implemented methods, containing root-finding algorithms and Lagrange polynomial interpolation.   
